@@ -6,8 +6,6 @@
 *.pkl
 *.joblib
 
-# MLflow
-mlruns/
 
 # Python cache
 __pycache__/
